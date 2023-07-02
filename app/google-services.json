@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "905906522144",
+    "project_id": "fyp-password-manager-3ba05",
+    "storage_bucket": "fyp-password-manager-3ba05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905906522144:android:e68096337eaeac92529445",
+        "android_client_info": {
+          "package_name": "com.danial.passwordmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905906522144-4ljfj7vi0kjjgbgd4dudjapoc8g4fi2g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.danial.passwordmanager",
+            "certificate_hash": "8b87bf05ed386ebe9412cf684031f354cbe5acd4"
+          }
+        },
+        {
+          "client_id": "905906522144-gcnmcjkf1nvf602es44tm3esk4mgvfib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQMVEjfm0Zn9pQTg0eF1x64Cz-8X2EjNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905906522144-gcnmcjkf1nvf602es44tm3esk4mgvfib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

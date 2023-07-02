@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/menuHome"
+        android:icon="@drawable/home"
+        android:title="@string/home"/>
+
+    <item android:id="@+id/menuPasswordGenerator"
+        android:icon="@drawable/pin"
+        android:title="@string/generator"/>
+
+    <item android:title="@string/my_account">
+        <menu>
+            <item android:id="@+id/menuSettings"
+                android:icon="@drawable/settings"
+                android:title="@string/settings"/>
+
+            <item android:id="@+id/menuLogout"
+                android:icon="@drawable/logout"
+                android:title="@string/logout"/>
+        </menu>
+    </item>
+</menu>
